@@ -1,1 +1,25 @@
+3) About the difference between window, screen and document in javascript :
 
+window :
+        It deals with the browser window and global functions.
+
+        key Methods :
+               => window.open()
+               => window.close()
+               => window.alert()
+               => setTimeout()
+         
+Screen :
+         It provides information about the user's screen.
+
+         It have no methods. It have properties :
+               => screen.width
+               => screen.height
+
+
+Document :
+          It interacts with the content and structure of the web page.
+
+          key Methods:
+                => document.createElement()
+                => document.addEventListener()
